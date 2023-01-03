@@ -1,3 +1,10 @@
+I will walk you through building this application step by step. Learning by doing is how the course is taught. I will 
+introduce you to a concept, and then you will implement it in the project you are building so that you can see how it 
+is used in a real-world scenario.
+
+                                                                    Giphy search app
+![img.png](img.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
